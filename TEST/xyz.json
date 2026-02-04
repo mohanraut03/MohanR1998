@@ -1,0 +1,12 @@
+{
+  "id": 12345,
+  "name": "Jane Doe",
+  "email": "jane.doe@example.com",
+  "isActive": true,
+  "roles": ["user", "admin"],
+  "profile": {
+    "age": 29,
+    "country": "US"
+  },
+  "createdAt": "2026-02-04T10:15:30Z"
+}
