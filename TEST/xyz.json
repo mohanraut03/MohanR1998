@@ -1,0 +1,17 @@
+{
+  "employees": [
+    "EMP001 - Rahul Sharma - Software Engineer",
+    "EMP002 - Anita Verma - QA Analyst",
+    "EMP003 - Mohit Kumar - DevOps Engineer"
+  ],
+  "projects": [
+    "Payroll Automation - In Progress",
+    "Attendance Tracker - Completed",
+    "CI Pipeline Setup - In Progress"
+  ],
+  "attendance": [
+    "2026-02-04 | Rahul | 09:41 IN | 18:43 OUT | 8 Hrs",
+    "2026-02-04 | Anita | 08:55 IN | 17:30 OUT | 8.5 Hrs",
+    "2026-02-04 | Mohit | 10:00 IN | 19:00 OUT | 9 Hrs"
+  ]
+}
