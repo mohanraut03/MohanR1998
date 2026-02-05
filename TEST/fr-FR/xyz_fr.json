@@ -1,0 +1,15 @@
+{
+  "id": 12345,
+  "name": "Jàãnëè Dóòëè",
+  "email": "jäânéè.dòòéè@éèxäâmpléè.còòm",
+  "isActive": true,
+  "roles": [
+    "úýsèêr",
+    "áàdmïín"
+  ],
+  "profile": {
+    "age": 29,
+    "country": "ÛS"
+  },
+  "createdAt": "2026-02-04T10:15:30Z"
+}
