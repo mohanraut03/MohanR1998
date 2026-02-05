@@ -1,15 +1,17 @@
 {
-  "id": 12345,
-  "name": "Jâánêé Dóòêé",
-  "email": "jäánëé.dôóëé@ëéxäámplëé.côóm",
-  "isActive": true,
-  "roles": [
-    "ùüsèèr",
-    "áãdmìîn"
+  "employees": [
+    "ÊMP001 - Räàhýýl Shäàrmäà - Söôftwäàréë Êngïínéëéër",
+    "ÉMP002 - Áníîtæâ Vëérmæâ - QÁ Ánæâlyst",
+    "ÈMP003 - Mõóhíìt Kúûmáær - DéèvÖps Èngíìnéèéèr"
   ],
-  "profile": {
-    "age": 29,
-    "country": "ÚS"
-  },
-  "createdAt": "2026-02-04T10:15:30Z"
+  "projects": [
+    "Pááyròöll Áùùtòömáátìïòön - Ïn Pròögrëéss",
+    "Åttèèndàäncèè Tràäckèèr - Còòmplèètèèd",
+    "CÎ Pììpëélììnëé Sëétúùp - În Prôògrëéss"
+  ],
+  "attendance": [
+    "2026-02-04 | Råàhüúl | 09:41 ÍN | 18:43 ÓÛT | 8 Hrs",
+    "2026-02-04 | Ãnïìtæá | 08:55 ÌN | 17:30 ÕÚT | 8.5 Hrs",
+    "2026-02-04 | Móôhîít | 10:00 ÍN | 19:00 ÔÙT | 9 Hrs"
+  ]
 }
