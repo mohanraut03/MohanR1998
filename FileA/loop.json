@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "U001",
+      "name": "Rahul Sharma",
+      "role": "Developer",
+      "status": "Active"
+    },
+    {
+      "id": "U002",
+      "name": "Anita Verma",
+      "role": "Tester",
+      "status": "Active"
+    },
+    {
+      "id": "U003",
+      "name": "Mohit Kumar",
+      "role": "DevOps",
+      "status": "Inactive"
+    }
+  ],
+  "project": {
+    "projectId": "P1001",
+    "projectName": "Attendance System",
+    "environment": "Production"
+  },
+  "metadata": {
+    "createdBy": "Admin",
+    "createdDate": "2026-02-05"
+  }
+}
