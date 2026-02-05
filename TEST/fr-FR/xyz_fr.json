@@ -1,15 +1,15 @@
 {
   "id": 12345,
-  "name": "Jâànéê Dòòéê",
-  "email": "jæânëè.dóóëè@ëèxæâmplëè.cóóm",
+  "name": "Jâánêé Dóòêé",
+  "email": "jäánëé.dôóëé@ëéxäámplëé.côóm",
   "isActive": true,
   "roles": [
-    "ûúsèêr",
-    "æädmìîn"
+    "ùüsèèr",
+    "áãdmìîn"
   ],
   "profile": {
     "age": 29,
-    "country": "ÙS"
+    "country": "ÚS"
   },
   "createdAt": "2026-02-04T10:15:30Z"
 }
