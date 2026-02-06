@@ -1,0 +1,24 @@
+{   
+ "sourceLanguage": "en-US",
+    
+"sourcePath": "/TEST/",
+  "fileType": ".doc,.json",
+  "fileNames" : ["abc.doc", "xyz.json"],
+	"custom_attributes":{
+		
+		"Attribute-1":"abc67676",
+		"Attribute-3":"abc22",
+		"Attribute-2":"value1"
+	},
+   "target": [
+        {
+            "targetLanguage": "de-DE",
+	        "targetPath": "source/locale"
+        },
+	   {
+            "targetLanguage": "fr-FR",
+		   "targetPath": "source/locale"
+        }
+	  
+    ]
+}
