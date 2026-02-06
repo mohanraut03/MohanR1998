@@ -3,7 +3,7 @@
     
 "sourcePath": "/Test/",
   "fileType": ".doc,.json",
-  "fileNames" : ["pqr.doc", "CGIT test.json"],
+  "fileNames" : ["abc.doc", "xyz.json"],
 	"custom_attributes":{
 		
 		"Attribute-1":"abc67676",
