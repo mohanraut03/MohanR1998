@@ -1,28 +1,28 @@
 {
   "users": [
     {
-      "id": "Ù001",
-      "name": "Ràãhûúl Shàãrmàã",
-      "role": "Dëëvëëlôòpëër",
-      "status": "Âctíïvêê"
+      "id": "Û001",
+      "name": "Râáhúûl Shâármâá",
+      "role": "Dèëvèëlòòpèër",
+      "status": "Äctíìvëë"
     },
     {
-      "id": "Ü002",
-      "name": "Ãnïïtäå Vëêrmäå",
-      "role": "Tèêstèêr",
-      "status": "Æctíívèê"
+      "id": "Û002",
+      "name": "Ánïítäá Vêërmäá",
+      "role": "Têéstêér",
+      "status": "Âctìîvêê"
     },
     {
       "id": "Ú003",
-      "name": "Móòhíít Kûûmäãr",
-      "role": "DêévÔps",
-      "status": "Ìnåæctîîvëê"
+      "name": "Mòöhìït Kúýmàãr",
+      "role": "DèêvÓps",
+      "status": "Ïnâàctïívéé"
     }
   ],
   "project": {
     "projectId": "P1001",
-    "projectName": "Ättëèndãæncëè Systëèm",
-    "environment": "Próödùüctîïóön"
+    "projectName": "Ättèèndæàncèè Systèèm",
+    "environment": "Pròódýýctííòón"
   },
   "metadata": {
     "createdBy": "Admin",
