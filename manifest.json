@@ -18,6 +18,14 @@
 	   {
             "targetLanguage": "fr-FR",
 		   "targetPath": "source/locale"
+        },
+	   {
+            "targetLanguage": "hi-IN",
+		   "targetPath": "source/locale"
+        },
+	   {
+            "targetLanguage": "it-IT",
+		   "targetPath": "source/locale"
         }
 	  
     ]
