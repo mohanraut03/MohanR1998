@@ -9,7 +9,7 @@
     },
     "submission-criteria": [
         {
-            "sourcePath": "/Test/",
+            "sourcePath": "/TEST/",
             "filePatterns": [
                 "abc.doc"
             ],
