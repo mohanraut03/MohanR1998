@@ -11,7 +11,7 @@
         {
             "sourcePath": "/Test/",
             "filePatterns": [
-                "Hotfix.doc"
+                "abc.doc"
             ],
             "targets": [
                 {
@@ -25,7 +25,7 @@
         {
             "sourcePath": "/source/locale/",
             "filePatterns": [
-                "CGIT test.json"
+                "xyz.json"
             ],
             "targets": [
                 {
@@ -38,7 +38,7 @@
          {
             "sourcePath": "/Test/",
             "filePatterns": [
-                "Project.docx"
+                "abc,xml"
             ],
             "targets": [
                 {
@@ -51,7 +51,7 @@
         {
             "sourcePath": "/Test/",
             "filePatterns": [
-                "abc.xml"
+                "abc.doc"
             ],
             "targets": [
                 {
