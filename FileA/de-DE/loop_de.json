@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "Ù001",
+      "name": "Ræàhùùl Shæàrmæà",
+      "role": "Dèèvèèlõópèèr",
+      "status": "Ãctïïvëë"
+    },
+    {
+      "id": "Ü002",
+      "name": "Ânïìtæå Vèërmæå",
+      "role": "Tèéstèér",
+      "status": "Æctíïvèè"
+    },
+    {
+      "id": "Ù003",
+      "name": "Möòhíít Kùùmåær",
+      "role": "DéêvÕps",
+      "status": "Ìnäàctîívéé"
+    }
+  ],
+  "project": {
+    "projectId": "P1001",
+    "projectName": "Ättèêndäáncèê Systèêm",
+    "environment": "Próódùýctììóón"
+  },
+  "metadata": {
+    "createdBy": "Admin",
+    "createdDate": "2026-02-05"
+  }
+}
