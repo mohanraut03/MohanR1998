@@ -3,7 +3,7 @@
     
 "sourcePath": "/TEST/",
   "fileType": ".doc,.json,.xml",
-  "fileNames" : ["abc.doc", "xyz.json"],
+  "fileNames" : ["abc.doc", "xyz.json","abc.xml"],
 	"custom_attributes":{
 		
 		"Attribute-1":"abc67676",
