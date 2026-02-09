@@ -1,0 +1,39 @@
+{
+    "submission-details": {
+        "sourceLanguage": "en-US",
+        "custom_attributes": {
+           "Attribute-1":"abc67676",
+        "Attribute-3":"abc22",
+        "Attribute-2":"value1"
+        }
+    },
+    "submission-criteria": [
+        {
+            "sourcePath": "/TEST/",
+            "filePatterns": [
+                "abc.doc"
+            ],
+            "targets": [
+                {
+                    "targetLanguage": "de-DE",
+                    "targetPath": "source/locale",
+                    "targetName": "suffix::_de"
+                   
+                }
+            ]
+        },
+        {
+            "sourcePath": "/FileA/",
+            "filePatterns": [
+                "mr.doc"
+            ],
+            "targets": [
+                {
+                    "targetLanguage": "de-DE",
+                    "targetPath": "Test/Create_Target/de-DE/",
+                    "targetName": "suffix::_de"
+                }
+            ]
+        }
+    ]
+}
