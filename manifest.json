@@ -23,41 +23,15 @@
             ]
         },
         {
-            "sourcePath": "/source/locale/",
+            "sourcePath": "/FileA/",
             "filePatterns": [
-                "xyz.json"
+                "mr.doc"
             ],
             "targets": [
                 {
                     "targetLanguage": "de-DE",
                     "targetPath": "Test/Create_Target/de-DE/",
                     "targetName": "suffix::_de"
-                }
-            ]
-        },
-         {
-            "sourcePath": "/Test/",
-            "filePatterns": [
-                "abc,xml"
-            ],
-            "targets": [
-                {
-                    "targetLanguage": "de-DE",
-                    "targetPath": "Test/Create_Target/de-DE/",
-                    "targetName": "suffix::_Hotfix-de"
-                }
-            ]
-        },
-        {
-            "sourcePath": "/Test/",
-            "filePatterns": [
-                "abc.doc"
-            ],
-            "targets": [
-                {
-                    "targetLanguage": "it-IT",
-                    "targetPath": "Test/Create_Target/it-IT/",
-                    "targetName": "suffix::_hotfix-it"
                 }
             ]
         }
