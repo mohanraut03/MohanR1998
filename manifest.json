@@ -6,9 +6,9 @@
   "fileNames" : [],
 	"custom_attributes":{
 		
-		"Attribute-1":"abc67676",
-		"Attribute-3":"abc22",
-		"Attribute-2":"value1"
+		"Attribute-1":"testcustomattribute11",
+		"Attribute-3":"testcustomattribute",
+		"Attribute-2":"value2"
 	},
    "target": [
        {
