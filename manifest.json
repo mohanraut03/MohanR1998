@@ -9,15 +9,5 @@
 		"Attribute-3":"abc",
 		"Attribute-2":"value3"
 	},
-   "target": [
-       {
-            "targetLanguage": "de-DE",
-         "targetPath": "source/locale"
-        },
-    {
-            "targetLanguage": "fr-FR",
-     "targetPath": "source/locale"
-        }
-	  
-    ]
+   "target": ""
 }
