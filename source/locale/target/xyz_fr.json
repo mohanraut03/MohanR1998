@@ -1,0 +1,17 @@
+{
+  "employees": [
+    "ÉMP001 - Ràähúùl Shàärmàä - Sôõftwàärëé Éngíìnëéëér",
+    "ËMP002 - Ànïítäã Véërmäã - QÀ Ànäãlyst",
+    "ËMP003 - Möõhíít Küûmäâr - DéêvÔps Ëngíínéêéêr"
+  ],
+  "projects": [
+    "Pääyróöll Âùütóömäätïìóön - Ín Próögrèèss",
+    "Ãttéëndáâncéë Tráâckéër - Cóòmpléëtéëd",
+    "CÍ Pìïpéëlìïnéë Séëtýüp - Ín Próõgréëss móõdìïfìïéëd"
+  ],
+  "attendance": [
+    "2026-02-04 | Råæhüûl | 09:41 ÍN | 18:43 ÒÜT | 8 Hrs",
+    "2026-02-04 | Äníìtãæ | 08:55 ÏN | 17:30 ÒÜT | 8.5 Hrs",
+    "2026-02-04 | Möõhíít | 10:00 ÌN | 19:00 ÕÜT | 9 Hrs"
+  ]
+}
