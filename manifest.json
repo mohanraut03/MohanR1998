@@ -2,8 +2,8 @@
  "sourceLanguage": "en-US",
     
 "sourcePath": "",
-  "fileType": ".doc,.xml,.json",
-  "fileNames" : ["abc.doc"],
+  "fileType": ".xml,.docx",
+"fileNames" : [],
 	"custom_attributes":{
 		"Attribute-1":"pqr",
 		"Attribute-3":"abc",
