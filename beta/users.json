@@ -1,0 +1,22 @@
+{
+  "userId": "a.brown",
+  "firstName": "Alex",
+  "lastName": "Brown",
+  "email": "alex.brown@client.com",
+  "roles": [
+    "Project Manager",
+    "Approver"
+  ],
+  "status": "Active",
+  "createdAt": "2023-12-01T10:32:45Z",
+  "lastLogin": "2024-06-10T14:21:00Z",
+  "languagePreferences": [
+    "en-US",
+    "fr-FR"
+  ],
+  "department": "Marketing",
+  "customFields": {
+    "employeeId": "567890",
+    "officeLocation": "Paris"
+  }
+}
