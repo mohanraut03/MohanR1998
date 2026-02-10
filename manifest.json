@@ -6,9 +6,7 @@
   "fileNames" : [],
 	"custom_attributes":{
 		
-		"Attribute-1":"testcustomattribute11",
-		"Attribute-3":"testcustomattribute",
-		"Attribute-2":"value2"
+		
 	},
    "target": [
        {
