@@ -2,7 +2,7 @@
  "sourceLanguage": "en-US",
     
 "sourcePath": "/TEST/",
-  "fileType": "",
+  "fileType": ".doc,.xml,.json",
   "fileNames" : [],
 	"custom_attributes":{
 		
