@@ -11,7 +11,14 @@
 		"Attribute-2":"value1"
 	},
    "target": [
-       
+       {
+            "targetLanguage": "de-DE",
+         "targetPath": "source/locale"
+        },
+    {
+            "targetLanguage": "fr-FR",
+     "targetPath": "source/locale"
+        }
 	  
     ]
 }
