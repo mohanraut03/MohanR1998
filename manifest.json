@@ -19,6 +19,13 @@
                     "targetPath": "source/locale",
                     "targetName": "suffix::_de"
                    
+                },
+
+                  {
+                    "targetLanguage": "fr-FR",
+                    "targetPath": "source/locale",
+                    "targetName": "suffix::_fr"
+                   
                 }
             ]
         },
@@ -32,6 +39,12 @@
                     "targetLanguage": "de-DE",
                     "targetPath": "Test/Create_Target/de-DE/",
                     "targetName": "suffix::_de"
+                },
+                 {
+                    "targetLanguage": "fr-FR",
+                    "targetPath": "source/locale",
+                    "targetName": "suffix::_fr"
+                   
                 }
             ]
         }
