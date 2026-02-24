@@ -1,17 +1,17 @@
 {
   "projectId": "12345",
-  "projectName": "Prôödûûct Lôöcáälîïzáätîïôön - Q1 Üpdáätéé",
+  "projectName": "Prõõdúúct Lõõcâålîìzâåtîìõõn - Q1 Üpdâåtéë",
   "dueDate": "2024-07-15",
   "files": [
     {
-      "fileName": "höômëêpãàgëê.txt",
-      "status": "Ín Próögrëéss",
+      "fileName": "hòõméèpàägéè.txt",
+      "status": "În Pròògrëêss",
       "translatedWords": 250,
       "totalWords": 270
     }
   ],
   "submittedBy": {
-    "userId": "j.smïîth",
-    "email": "j.smìïth@clìïêênt.côôm"
+    "userId": "j.smíîth",
+    "email": "j.smïîth@clïîêént.còóm"
   }
 }
