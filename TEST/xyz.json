@@ -1,8 +1,8 @@
 {
   "employees": [
-    "EMP001 - Rahul Sharma - Software Engineer",
+    "EMP001 - Rahul Sharma - Software changed detection",
     "EMP002 - Anita Verma - QA Analyst",
-    "EMP003 - Mohit Kumar - DevOps Engineer"
+    "EMP003 - Mohit Kumar - DevOps changed detection"
   ],
   "projects": [
     "Payroll Automation - In Progress",
