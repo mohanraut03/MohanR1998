@@ -4,19 +4,19 @@
       "id": "U001",
       "name": "Rahul Sharma",
       "role": "Developer",
-      "status": "Active"
+      "status": "changed"
     },
     {
       "id": "U002",
       "name": "Anita Verma",
       "role": "Tester",
-      "status": "Active"
+      "status": "changed"
     },
     {
       "id": "U003",
       "name": "Mohit Kumar",
       "role": "DevOps",
-      "status": "Inactive"
+      "status": "changed"
     }
   ],
   "project": {
