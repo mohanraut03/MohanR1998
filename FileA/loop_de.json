@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "Ü001",
+      "name": "chàændàæn Shàærmàæ",
+      "role": "Déèvéèlóòpéèr",
+      "status": "Åctíívèë"
+    },
+    {
+      "id": "Ú002",
+      "name": "cháàndáàn Vëërmáà",
+      "role": "Tèëstèër",
+      "status": "Âctíìvéé"
+    },
+    {
+      "id": "Û003",
+      "name": "chàändàän Küûmàär",
+      "role": "DéévÒps",
+      "status": "Ínàæctíìvèé"
+    }
+  ],
+  "project": {
+    "projectId": "P1001",
+    "projectName": "chäændäæn Systëèm",
+    "environment": "Prôôdúýctïíôôn"
+  },
+  "metadata": {
+    "createdBy": "chandan",
+    "createdDate": "2026-02-05"
+  }
+}
