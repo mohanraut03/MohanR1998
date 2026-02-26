@@ -2,30 +2,30 @@
   "users": [
     {
       "id": "U001",
-      "name": "Rahul Sharma",
+      "name": "chandan Sharma",
       "role": "Developer",
       "status": "Active"
     },
     {
       "id": "U002",
-      "name": "Anita Verma",
+      "name": "chandan Verma",
       "role": "Tester",
       "status": "Active"
     },
     {
       "id": "U003",
-      "name": "Mohit Kumar",
+      "name": "chandan Kumar",
       "role": "DevOps",
       "status": "Inactive"
     }
   ],
   "project": {
     "projectId": "P1001",
-    "projectName": "Attendance System",
+    "projectName": "chandan System",
     "environment": "Production"
   },
   "metadata": {
-    "createdBy": "Admin",
+    "createdBy": "chandan",
     "createdDate": "2026-02-05"
   }
 }
