@@ -13,11 +13,15 @@
    "target": [
         {
             "targetLanguage": "de-DE",
-	        "targetPath": "source/locale/target"
+           "targetName": "suffix::_de-DE",
+			"targetPath": "Test/language/de"
+			
         },
 	   {
             "targetLanguage": "fr-FR",
-		   "targetPath": "source/locale/target"
+		  "targetName": "suffix::_fr-FR",
+		    "targetPath": "Test/language/fr"
+
         }
 	  
     ]
