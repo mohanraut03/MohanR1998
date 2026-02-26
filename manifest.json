@@ -16,7 +16,7 @@
             "targets": [
                 {
                     "targetLanguage": "de-DE",
-                    "targetPath": "/TEST/::/TEST_TP1/",
+                    "targetPath": "/TEST/::/TEST_TP1/de-DE",
                     "targetName": "suffix::_de"
                    
                 },
@@ -37,7 +37,7 @@
             "targets": [
                 {
                     "targetLanguage": "de-DE",
-                    "targetPath": "/FileA/::/FileA_TP2/",
+                    "targetPath": "/FileA/::/FileA_TP2/de-DE",
                     "targetName": "suffix::_de"
                 },
                  {
