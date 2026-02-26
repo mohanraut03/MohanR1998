@@ -16,14 +16,14 @@
             "targets": [
                 {
                     "targetLanguage": "de-DE",
-                    "targetPath": "source/locale",
+                    "targetPath": "/TEST/::/TEST_TP1/",
                     "targetName": "suffix::_de"
                    
                 },
 
                   {
                     "targetLanguage": "fr-FR",
-                    "targetPath": "source/locale",
+                    "targetPath": "/TEST/::/TEST_TP1/fr-FR",
                     "targetName": "suffix::_fr"
                    
                 }
@@ -37,12 +37,12 @@
             "targets": [
                 {
                     "targetLanguage": "de-DE",
-                    "targetPath": "Test/Create_Target/de-DE/",
+                    "targetPath": "/FileA/::/FileA_TP2/",
                     "targetName": "suffix::_de"
                 },
                  {
                     "targetLanguage": "fr-FR",
-                    "targetPath": "source/locale",
+                    "targetPath": "/FileA/::/FileA_TP2/fr-FR",
                     "targetName": "suffix::_fr"
                    
                 }
