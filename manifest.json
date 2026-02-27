@@ -9,9 +9,9 @@
     },
     "submission-criteria": [
         {
-            "sourcePath": "/TEST/",
+            "sourcePath": "/alpha/",
             "filePatterns": [
-                "abc.doc"
+                "toggle.doc"
             ],
             "targets": [
                 {
