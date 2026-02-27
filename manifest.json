@@ -23,8 +23,8 @@
 
                   {
                     "targetLanguage": "fr-FR",
-                    "targetPath": "/TEST/::/TEST_TP1/fr-FR",
-                    "targetName": "suffix::_fr"
+                    "targetPath": "(?<=/|^)original(?=/|$)::OG-Target-FR",
+                    "targetName": "suffix::_fr-l"
                    
                 }
             ]
