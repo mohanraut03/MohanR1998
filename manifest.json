@@ -16,7 +16,7 @@
             "targets": [
                 {
                     "targetLanguage": "de-DE",
-                    "targetPath": "/TEST/::/TEST_TP1/de-DE",
+                    "targetPath": "(?<=/|^)original(?=/|$)::OG-Target-DE",
                     "targetName": "suffix::_de"
                    
                 },
