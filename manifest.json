@@ -17,7 +17,7 @@
                 {
                     "targetLanguage": "de-DE",
                     "targetPath": "(?<=/|^)original(?=/|$)::OG-Target-DE",
-                    "targetName": "suffix::_de"
+                    "targetName": ""
                    
                 },
 
