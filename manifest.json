@@ -16,15 +16,15 @@
             "targets": [
                 {
                     "targetLanguage": "de-DE",
-                    "targetPath": "(?<=/|^)original(?=/|$)::OG-Target-DE",
-                    "targetName": ""
+                    "targetPath": "",
+                    "targetName": "suffix::_DE"
                    
                 },
 
                   {
                     "targetLanguage": "fr-FR",
-                    "targetPath": "(?<=/|^)original(?=/|$)::OG-Target-FR",
-                    "targetName": "suffix::_fr-l"
+                    "targetPath": "",
+                    "targetName": "suffix::_FR"
                    
                 }
             ]
