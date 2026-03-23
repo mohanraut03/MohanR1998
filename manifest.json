@@ -9,9 +9,9 @@
     },
     "submission-criteria": [
         {
-            "sourcePath": "/alpha/",
+            "sourcePath": "/TEST/",
             "filePatterns": [
-                "toggle.doc"
+                "xyz.json"
             ],
             "targets": [
                 {
@@ -32,7 +32,7 @@
         {
             "sourcePath": "/FileA/",
             "filePatterns": [
-                "mr.doc"
+                "loop.json"
             ],
             "targets": [
                 {
