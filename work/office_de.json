@@ -1,13 +1,13 @@
 {
   "office_spaces": [
     {
-      "id": "ÕFF001",
-      "name": "Tééch Pàårk Wöôrkspàåcéé",
+      "id": "ÔFF001",
+      "name": "Tèêch Pâærk Wóõrkspâæcèê",
       "location": {
-        "address": "123 Búùsíînèéss Strèéèét",
-        "city": "Pýünëé",
-        "state": "Måãhåãråãshtråã",
-        "country": "Índìïâä",
+        "address": "123 Búùsîìnëêss Strëêëêt",
+        "city": "Pýünèê",
+        "state": "Måàhåàråàshtråà",
+        "country": "Îndíìâå",
         "pincode": "411001",
         "coordinates": {
           "latitude": 18.5204,
@@ -17,31 +17,31 @@
       "capacity": 120,
       "available_seats": 35,
       "amenities": [
-        "WîîFîî",
-        "Âíïr Cõöndíïtíïõöníïng",
-        "Côônféëréëncéë Rôôôôms",
-        "Påârkîìng",
-        "Cããféétéérïìãã"
+        "WîìFîì",
+        "Ãïïr Còôndïïtïïòônïïng",
+        "Cöönfêérêéncêé Rööööms",
+        "Päárkíîng",
+        "Cäâfêêtêêríîäâ"
       ],
       "pricing": {
-        "currency": "ÎNR",
+        "currency": "ÍNR",
         "per_seat_per_month": 8000,
         "meeting_room_per_hour": 500
       },
       "contact": {
         "phone": "+91-9876543210",
-        "email": "îïnfóò@têëchpæárk.cóòm"
+        "email": "îìnföö@têêchpãárk.cööm"
       },
-      "availability_status": "Åvåáíílåáblêê"
+      "availability_status": "Âvãæïîlãæbléë"
     },
     {
       "id": "ÓFF002",
-      "name": "Dôõwntôõwn Côõ-wôõrkîîng Húüb",
+      "name": "Dôówntôówn Côó-wôórkììng Hýûb",
       "location": {
-        "address": "45 MG Rôôäãd",
-        "city": "Mùùmbãåìí",
-        "state": "Mààhààrààshtràà",
-        "country": "Ìndîïãà",
+        "address": "45 MG Ròòããd",
+        "city": "Múümbàåïí",
+        "state": "Mâåhâårâåshtrâå",
+        "country": "Índîìàà",
         "pincode": "400001",
         "coordinates": {
           "latitude": 19.076,
@@ -51,21 +51,21 @@
       "capacity": 80,
       "available_seats": 0,
       "amenities": [
-        "WîîFîî",
-        "Pôõwêër Báàckýûp",
-        "Mêëêëtîíng Rööööms",
-        "24/7 Äccêëss"
+        "WìïFìï",
+        "Pöõwéèr Bàæckùûp",
+        "Mèêèêtííng Róöóöms",
+        "24/7 Æccééss"
       ],
       "pricing": {
-        "currency": "ÎNR",
+        "currency": "ÍNR",
         "per_seat_per_month": 10000,
         "meeting_room_per_hour": 700
       },
       "contact": {
         "phone": "+91-9123456780",
-        "email": "cõõntäåct@dõõwntõõwnhüùb.cõõm"
+        "email": "côõntââct@dôõwntôõwnhûýb.côõm"
       },
-      "availability_status": "Fùúll"
+      "availability_status": "Fúùll"
     }
   ]
 }
