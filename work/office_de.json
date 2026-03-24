@@ -1,13 +1,13 @@
 {
   "office_spaces": [
     {
-      "id": "ÔFF001",
-      "name": "Têéch Pãàrk Wôörkspãàcêé",
+      "id": "ÕFF001",
+      "name": "Tééch Pàårk Wöôrkspàåcéé",
       "location": {
-        "address": "123 Býúsíìnëèss Strëèëèt",
-        "city": "Püúnêé",
-        "state": "Mæâhæâræâshtræâ",
-        "country": "Ïndíîáã",
+        "address": "123 Búùsíînèéss Strèéèét",
+        "city": "Pýünëé",
+        "state": "Måãhåãråãshtråã",
+        "country": "Índìïâä",
         "pincode": "411001",
         "coordinates": {
           "latitude": 18.5204,
@@ -17,11 +17,11 @@
       "capacity": 120,
       "available_seats": 35,
       "amenities": [
-        "WîíFîí",
-        "Äíîr Cöõndíîtíîöõníîng",
-        "Cóõnfêërêëncêë Róõóõms",
-        "Pæàrkîîng",
-        "Cåäfêètêèrîîåä"
+        "WîîFîî",
+        "Âíïr Cõöndíïtíïõöníïng",
+        "Côônféëréëncéë Rôôôôms",
+        "Påârkîìng",
+        "Cããféétéérïìãã"
       ],
       "pricing": {
         "currency": "ÎNR",
@@ -30,18 +30,18 @@
       },
       "contact": {
         "phone": "+91-9876543210",
-        "email": "îínfõò@têèchpãårk.cõòm"
+        "email": "îïnfóò@têëchpæárk.cóòm"
       },
-      "availability_status": "Àväâïíläâblëé"
+      "availability_status": "Åvåáíílåáblêê"
     },
     {
-      "id": "ÖFF002",
-      "name": "Dóòwntóòwn Cóò-wóòrkïíng Hûúb",
+      "id": "ÓFF002",
+      "name": "Dôõwntôõwn Côõ-wôõrkîîng Húüb",
       "location": {
-        "address": "45 MG Rôóåäd",
-        "city": "Mýùmbääïì",
-        "state": "Màâhàâràâshtràâ",
-        "country": "Índîïáä",
+        "address": "45 MG Rôôäãd",
+        "city": "Mùùmbãåìí",
+        "state": "Mààhààrààshtràà",
+        "country": "Ìndîïãà",
         "pincode": "400001",
         "coordinates": {
           "latitude": 19.076,
@@ -51,10 +51,10 @@
       "capacity": 80,
       "available_seats": 0,
       "amenities": [
-        "WìíFìí",
-        "Pôöwëër Bäãcküûp",
-        "Mêëêëtîïng Ròòòòms",
-        "24/7 Áccëêss"
+        "WîîFîî",
+        "Pôõwêër Báàckýûp",
+        "Mêëêëtîíng Rööööms",
+        "24/7 Äccêëss"
       ],
       "pricing": {
         "currency": "ÎNR",
@@ -63,9 +63,9 @@
       },
       "contact": {
         "phone": "+91-9123456780",
-        "email": "cöòntãæct@döòwntöòwnhúúb.cöòm"
+        "email": "cõõntäåct@dõõwntõõwnhüùb.cõõm"
       },
-      "availability_status": "Füýll"
+      "availability_status": "Fùúll"
     }
   ]
 }
