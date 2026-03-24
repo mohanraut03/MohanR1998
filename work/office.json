@@ -1,0 +1,71 @@
+{
+  "office_spaces": [
+    {
+      "id": "OFF001",
+      "name": "Tech Park Workspace",
+      "location": {
+        "address": "123 Business Street",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "country": "India",
+        "pincode": "411001",
+        "coordinates": {
+          "latitude": 18.5204,
+          "longitude": 73.8567
+        }
+      },
+      "capacity": 120,
+      "available_seats": 35,
+      "amenities": [
+        "WiFi",
+        "Air Conditioning",
+        "Conference Rooms",
+        "Parking",
+        "Cafeteria"
+      ],
+      "pricing": {
+        "currency": "INR",
+        "per_seat_per_month": 8000,
+        "meeting_room_per_hour": 500
+      },
+      "contact": {
+        "phone": "+91-9876543210",
+        "email": "info@techpark.com"
+      },
+      "availability_status": "Available"
+    },
+    {
+      "id": "OFF002",
+      "name": "Downtown Co-working Hub",
+      "location": {
+        "address": "45 MG Road",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India",
+        "pincode": "400001",
+        "coordinates": {
+          "latitude": 19.0760,
+          "longitude": 72.8777
+        }
+      },
+      "capacity": 80,
+      "available_seats": 0,
+      "amenities": [
+        "WiFi",
+        "Power Backup",
+        "Meeting Rooms",
+        "24/7 Access"
+      ],
+      "pricing": {
+        "currency": "INR",
+        "per_seat_per_month": 10000,
+        "meeting_room_per_hour": 700
+      },
+      "contact": {
+        "phone": "+91-9123456780",
+        "email": "contact@downtownhub.com"
+      },
+      "availability_status": "Full"
+    }
+  ]
+}
