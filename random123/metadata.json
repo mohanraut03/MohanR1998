@@ -1,0 +1,27 @@
+{
+  "projectId": "98765",
+  "projectName": "Website Refresh",
+  "sourceLanguage": "en-US",
+  "targetLanguages": [
+    "es-ES",
+    "it-IT"
+  ],
+  "createdDate": "2024-06-12",
+  "status": "In Progress",
+  "submittedBy": {
+    "userId": "k.lee",
+    "email": "k.lee@client.com"
+  },
+  "files": [
+    {
+      "fileName": "about_us.docx",
+      "wordCount": 1570,
+      "status": "Submitted"
+    },
+    {
+      "fileName": "contact_us.docx",
+      "wordCount": 350,
+      "status": "In Progress"
+    }
+  ]
+}
