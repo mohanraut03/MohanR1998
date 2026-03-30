@@ -2,9 +2,9 @@
   "users": [
     {
       "id": "U001",
-      "name": "Rahul Sharma",
-      "role": "Developer",
-      "status": "changed"
+      "name": "Rohit Sharma",
+      "role": "Cricketer",
+      "status": "Active"
     },
     {
       "id": "U002",
