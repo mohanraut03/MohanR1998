@@ -1,0 +1,17 @@
+{
+  "projectId": "12345",
+  "projectName": "Próõdûùct Lóõcãælïízãætïíóõn - Q1 Ûpdãætêê",
+  "dueDate": "2024-07-15",
+  "files": [
+    {
+      "fileName": "hòómëëpáågëë.txt",
+      "status": "Ïn Prõôgrèèss",
+      "translatedWords": 250,
+      "totalWords": 270
+    }
+  ],
+  "submittedBy": {
+    "userId": "j.smîïth",
+    "email": "j.smìïth@clìïêênt.cõóm"
+  }
+}

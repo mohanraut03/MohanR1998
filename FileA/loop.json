@@ -2,21 +2,21 @@
   "users": [
     {
       "id": "U001",
-      "name": "Rahul Sharma",
-      "role": "Developer",
+      "name": "Rohit Sharma",
+      "role": "Cricketer",
       "status": "Active"
     },
     {
       "id": "U002",
       "name": "Anita Verma",
       "role": "Tester",
-      "status": "Active"
+      "status": "changed"
     },
     {
       "id": "U003",
       "name": "Mohit Kumar",
       "role": "DevOps",
-      "status": "Inactive"
+      "status": "changed"
     }
   ],
   "project": {
