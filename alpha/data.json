@@ -1,0 +1,17 @@
+{
+  "projectId": "12345",
+  "projectName": "Product Localization - Q1 Update",
+  "dueDate": "2024-07-15",
+  "files": [
+    {
+      "fileName": "homepage.txt",
+      "status": "In Progress",
+      "translatedWords": 250,
+      "totalWords": 270
+    }
+  ],
+  "submittedBy": {
+    "userId": "j.smith",
+    "email": "j.smith@client.com"
+  }
+}
