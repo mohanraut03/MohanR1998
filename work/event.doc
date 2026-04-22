@@ -2,3 +2,5 @@ This document describes how event-related information is structured and maintain
 An event is identified by a unique event ID and includes essential details such as its name, description, and category. 
 The event name represents the title that is visible to users, while the description provides a brief overview of what the event is about. 
 The category helps classify the event into types such as business, entertainment, workshops, or conferences, making it easier to organize and search.
+
+edited
