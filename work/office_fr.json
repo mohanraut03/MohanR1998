@@ -1,0 +1,71 @@
+{
+  "office_spaces": [
+    {
+      "id": "ÓFF001",
+      "name": "Tééch Pâárk Wòõrkspâácéé",
+      "location": {
+        "address": "123 Búúsíînêëss Strêëêët",
+        "city": "Pýúnéë",
+        "state": "Måáhåáråáshtråá",
+        "country": "Ïndîíàæ",
+        "pincode": "411001",
+        "coordinates": {
+          "latitude": 18.5204,
+          "longitude": 73.8567
+        }
+      },
+      "capacity": 120,
+      "available_seats": 35,
+      "amenities": [
+        "WíïFíï",
+        "Áíìr Cõõndíìtíìõõníìng",
+        "Cöönfëërëëncëë Rööööms",
+        "Páårkîìng",
+        "Cæäfêêtêêrììæä"
+      ],
+      "pricing": {
+        "currency": "ÎNR",
+        "per_seat_per_month": 8000,
+        "meeting_room_per_hour": 500
+      },
+      "contact": {
+        "phone": "+91-9876543210",
+        "email": "ïïnfóô@téëchpâãrk.cóôm"
+      },
+      "availability_status": "Ävâáîìlâáblëé"
+    },
+    {
+      "id": "ÔFF002",
+      "name": "Dõöwntõöwn Cõö-wõörkïïng Hýüb",
+      "location": {
+        "address": "45 MG Róõàæd",
+        "city": "Mýûmbãåîì",
+        "state": "Mãähãärãäshtrãä",
+        "country": "Ìndìíæà",
+        "pincode": "400001",
+        "coordinates": {
+          "latitude": 19.076,
+          "longitude": 72.8777
+        }
+      },
+      "capacity": 80,
+      "available_seats": 0,
+      "amenities": [
+        "WîïFîï",
+        "Pôôwéér Bââckýûp",
+        "Mêèêètìîng Röòöòms",
+        "24/7 Äccëèss"
+      ],
+      "pricing": {
+        "currency": "ÌNR",
+        "per_seat_per_month": 10000,
+        "meeting_room_per_hour": 700
+      },
+      "contact": {
+        "phone": "+91-9123456780",
+        "email": "còòntãàct@dòòwntòòwnhýúb.còòm"
+      },
+      "availability_status": "Füùll"
+    }
+  ]
+}
