@@ -1,8 +1,8 @@
-{   
+{
  "sourceLanguage": "en-US",
-    
-"sourcePath": "/TEST/",
-  "fileType": ".docx,.doc,.json",
+
+"sourcePath": "/Test/",
+  "fileType": ".doc,.json",
   "fileNames" : [],
 	"custom_attributes":{
 		
@@ -13,16 +13,12 @@
    "target": [
         {
             "targetLanguage": "de-DE",
-           "targetName": "suffix::_de-DE",
-			"targetPath": "Test/language/de"
-			
+	        "targetPath": "source/locale"
         },
 	   {
-            "targetLanguage": "fr-FR",
-		  "targetName": "suffix::_fr-FR",
-		    "targetPath": "Test/language/fr"
-
+            "targetLanguage": "fr-CA",
+		   "targetPath": "source/locale"
         }
-	  
+	
     ]
 }
