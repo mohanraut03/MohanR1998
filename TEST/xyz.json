@@ -1,17 +1,17 @@
 {
   "employees": [
-    "EMP001 - Rahul Sharma - Software changed detection",
-    "EMP002 - Anita Verma - QA Analyst",
-    "EMP003 - Mohit Kumar - DevOps changed detection"
+    "ÈMP001 - Råãhùül Shåãrmåã - Sööftwåãrëë chåãngëëd dëëtëëctïíöön",
+    "ÊMP002 - Ánïïtàà Vëërmàà - QÁ Ánààlyst",
+    "ÉMP003 - Móõhîìt Küûmåâr - DéêvÔps chåângéêd déêtéêctîìóõn"
   ],
   "projects": [
-    "Payroll Automation - In Progress",
-    "Attendance Tracker - Completed",
-    "CI Pipeline Setup - In Progress"
+    "Påâyróõll Àüùtóõmåâtíìóõn - Ìn Próõgrèéss",
+    "Àttêèndäâncêè Träâckêèr - Cóòmplêètêèd",
+    "CÎ Pîìpéèlîìnéè Séètùûp - În Pròögréèss"
   ],
   "attendance": [
-    "2026-02-04 | Rahul | 09:41 IN | 18:43 OUT | 8 Hrs",
-    "2026-02-04 | Anita | 08:55 IN | 17:30 OUT | 8.5 Hrs",
-    "2026-02-04 | Mohit | 10:00 IN | 19:00 OUT | 9 Hrs"
+    "2026-02-04 | Ràåhùýl | 09:41 ÎN | 18:43 ÖÜT | 8 Hrs",
+    "2026-02-04 | Àníítàâ | 08:55 ÌN | 17:30 ÖÜT | 8.5 Hrs",
+    "2026-02-04 | Mõóhìít | 10:00 ÎN | 19:00 ÓÜT | 9 Hrs"
   ]
 }
